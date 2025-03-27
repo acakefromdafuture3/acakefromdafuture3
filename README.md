@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acakefromdafuture3&label=Profile%20views&color=0e75b6&style=flat" alt="acakefromdafuture3" /> </p>
 
-- 🌱 I’m currently learning **C,JS,ReactJS,Computer Science Engineering**
+- 🌱 I’m currently learning **C, Python & pursuing my BTech Degree from St Thomas College of Engineering and Technology,Kolkata**
 
 - 📫 How to reach me **ritankarbose100@gmail.com**
 
